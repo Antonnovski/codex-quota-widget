@@ -1,8 +1,16 @@
 # Codex Quota Widget
 
+> Roselia 风格的 Windows Codex 额度桌面小组件，采用深蓝紫色、玫瑰纹样与 Liquid Glass 视觉效果。
+
 一款面向 Windows 的 Codex 额度桌面小组件。它会读取当前 Codex 登录账户的额度窗口，在桌面上显示剩余百分比、重置时间和实时倒计时。
 
 当前界面采用 Roselia 灵感的深蓝紫色 Liquid Glass 风格，五小时额度与每周额度并排显示。
+
+## 视觉风格
+
+界面明确采用 **Roselia 风格**：以深蓝、紫色和银蓝高光为主色，结合玫瑰线稿、优雅字形、半透明玻璃层与柔和光影。设计目标是在保留 Roselia 气质的同时，让额度百分比和重置时间保持清晰易读。
+
+本项目是 Roselia 风格的个人创作，并非官方应用，也未使用官方角色立绘或受版权保护的图片素材。
 
 ## 功能
 
@@ -61,4 +69,3 @@ dotnet publish -c Release -o publish
 这是个人制作的非官方项目，与 OpenAI、BanG Dream!、Roselia 或 Bushiroad 无隶属或授权关系。项目中的主题仅为视觉灵感表达，未包含官方图片资源。
 
 本仓库暂未授予开源许可证。未经版权所有者许可，不得复制、修改或再发布代码。
-
