@@ -1,0 +1,16 @@
+bin/
+obj/
+publish/
+artifacts/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.log
+TestResults/
+[Dd]esktop.ini
+Thumbs.db
+
